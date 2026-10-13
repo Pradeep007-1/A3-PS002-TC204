@@ -6,4 +6,4 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 **Team:** SPARK  
 **Problem Statement:** PS-002 — Purpose-Based Consent Recording and Withdrawal Prototype
 
-**YouTube Video:** https://youtu.be/p7tMllSAK7g?si=hmjAe14XzMGbRwyo
+**YouTube Video:** https://youtu.be/KEfVua497LA?si=c7YFY8uAIVeDPvE8
